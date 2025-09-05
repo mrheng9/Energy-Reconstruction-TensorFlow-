@@ -1,0 +1,10 @@
+*.out
+*.log
+nohup*.out
+test.log/
+train.log/
+*.pkl
+*.h5
+*.npy
+__pycache__/
+.ipynb_checkpoints/
